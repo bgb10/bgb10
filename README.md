@@ -4,7 +4,7 @@
 - Millitary Service - Republic of Korea Air Force (ROKAF)
 
 🌱 I’m currently learning
-- Computer Science and Engineering at Chung-Ang Univerisity in Seoul, South Korea
+- Computer Science and Engineering at Dept. of Software, Chung-Ang Univerisity in Seoul, South Korea
 
 📫 How to reach me
 - 📧: bgb1028@gmail.com
