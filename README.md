@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*This README.md originated from @ntcho. Thanks!*
+*This README.md is originated from @ntcho. Thanks!*
