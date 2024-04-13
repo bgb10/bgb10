@@ -1,23 +1,15 @@
 # Gwan-Bin Park
 
-A Passionate Software Developer.
-
-# Interest
-* 신시
-* ROS 공부중
+# Current Interests
+* Learning ROS(Robot Operating System) in daily.
+* Learning Signals and Systems
 
 # Projects
 ## Ongoing Projects
-넷응설
-데베시
-멀코
-
+* [Building Fixed Length DB](https://github.com/bgb10/fixed-length-db): small, fixed-length record DBMS, focusing on implementing block file I/O and free list
+* Multi-threaded Socket Programming using various languages(C, Java, Golang)
+  
 ## Projects
-Pin 된거 보센.
+> Please checkout the project I've pinned. There's a lot of fun stuff :)
 
-# Strength
-* 요거
-* 조거
-* 이거
-
-Please visit Linkedin and Resume to Know me more!
+`GITHUB README` is only for introducing my Git repository. Please visit my [Linkedin](https://www.linkedin.com/in/gwanbinpark/) to know me more! (Working Experience, Education, Awards, etc)
