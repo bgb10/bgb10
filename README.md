@@ -1,7 +1,7 @@
 # Gwan-Bin Park
 **A Developer who have the wisdom and logic to persuade others.**
 
-Be open to diverse knowledge and experiences, not just Computer Science, to speak with evidence. I have two years of full-stack web developing experience in Republic Of Korea Air Force and solved real-life problems through several projects.
+Be open to diverse knowledge and experiences, not just Computer Science, to speak with evidence. I have two years of full-stack web developing experience in Republic of Korea Air Force and solved real-life problems through several projects.
 
 # Current Interests
 * [Learning ROS(Robot Operating System) in daily.](https://github.com/bgb10?tab=repositories)
