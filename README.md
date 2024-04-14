@@ -1,7 +1,8 @@
 # Gwan-Bin Park
 **A Developer who have the wisdom and logic to persuade others.**
 
-Be open to diverse knowledge and experiences, not just Computer Science, to speak with evidence. I have two years of full-stack web developing experience in Republic of Korea Air Force and solved real-life problems through several projects.
+I am a computer science student at Chung-Ang university, pursuing a Bachelor of Engineering degree. 
+I have two years of software engineering experience, working as a soldier in charge of software development at the Republic of Korea Air Force and as a vacation intern at NH INVESTMENT & SECURITIES, a leading financial company in Korea. Be open to diverse knowledge and experiences, not just Computer Science, to speak with evidence.
 
 # Current Interests
 * [Learning ROS(Robot Operating System) in daily.](https://github.com/bgb10?tab=repositories)
